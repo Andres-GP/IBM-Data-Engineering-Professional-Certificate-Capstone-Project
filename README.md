@@ -1,13 +1,11 @@
 # 💼 IBM Data Engineering Capstone Project
 
-[![GitHub](https://img.shields.io/badge/Capstone-IBM%20Data%20Engineering-blue)](https://github.com/Andres-GP/IBM-Data-Engineering-Professional-Certificate-Capstone-Project)
-
 This is the **final capstone project** for the **IBM Data Engineering Professional Certificate**, showcasing an **end-to-end data engineering pipeline**.  
 It includes **data extraction, transformation, and loading (ETL)**, **data quality checks**, and **pipeline orchestration** with **Airflow**, all deployed on **AWS Cloud Services**.
 
 ---
 
-## 🚀 Live Demo / Project Overview
+## 🚀 Project Overview
 
 While this project is primarily backend/data engineering, here is an overview of the workflow:
 
